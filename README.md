@@ -15,7 +15,7 @@ node assist -h
 
 ### New
 ```shell
-node new <projectName>
+node assist new <projectName>
 ```
 This will download a preconfigured Twitter Bootstrap seed project
 with Fontawesome, and other goodies ready for you to start building
