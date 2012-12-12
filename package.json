@@ -1,0 +1,28 @@
+{
+  "name": "assist",
+  "version": "1.0.0",
+  "description": "A simple folder watching, project seeding, awesome assistant to help you start your projects",
+  "keywords": [
+    "command",
+    "server",
+    "seed",
+    "project"
+  ],
+  "author": {
+    "name": "James R. Quals",
+    "email": "Qualls.James@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skyteclabs/assist.git"
+  },
+  "dependencies": {
+    "commander": "1.1.1",
+    "connect": "2.7.0",
+    "node-live-reload": "0.0.3"
+  },
+  "engines": {
+    "node": ">= 0.6.x"
+  },
+  "readmeFilename": "Readme.md"
+}
